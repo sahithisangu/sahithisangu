@@ -25,9 +25,9 @@ I'm passionate about exploring Artificial Intelligence, Machine Learning, Comput
 
 ### 💡 Featured Projects
 
-- **AI-Based Road Monitoring System** — AI-powered pothole detection and road condition monitoring using computer vision.
-- **Document Overload Management System** — A web-based prototype designed to simplify document management for Kochi Metro Rail Limited.
-- **Digital Well-being Analytics** — Analysis of digital habits and well-being patterns using student data.
+- **AI-Based Road Monitoring System** - AI-powered pothole detection and road condition monitoring using computer vision.
+- **Document Overload Management System** - A web-based prototype designed to simplify document management for Kochi Metro Rail Limited.
+- **Digital Well-being Analytics** - Analysis of digital habits and well-being patterns using student data.
 
 ### 🌟 Beyond Coding
 
@@ -41,4 +41,4 @@ I'm passionate about exploring Artificial Intelligence, Machine Learning, Comput
 
 ---
 
-⭐ *Learning, building and improving — one project at a time.*
+⭐ *Learning, building and improving - one project at a time.*
